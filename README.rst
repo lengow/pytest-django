@@ -62,4 +62,4 @@ that are already present in pytest. Here are some advantages:
 
 See the `pytest documentation <https://pytest.org/en/latest/>`_ for more information on pytest itself.
 
-Ensure to update your conftest.py file with the pytest_plugins variable as it has been removed due to a critical change in pytest 4 (see `documentation <https://docs.pytest.org/en/latest/deprecations.html#pytest-plugins-in-non-top-level-conftest-files>`)
+Ensure to update your conftest.py file with the pytest_plugins variable as it has been removed due to a critical change in pytest 4 (see `documentation <https://docs.pytest.org/en/latest/deprecations.html#pytest-plugins-in-non-top-level-conftest-files>`_)
